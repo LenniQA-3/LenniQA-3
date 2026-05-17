@@ -2,13 +2,6 @@
 
 Soy un desarrollador de Quality Assurance (QA) apasionado por la automatización y la creación de experiencias interactivas. 
 
-### 🚀 Sobre mí
-
-* 🔭 Actualmente desarrollando mi primer proyecto de videojuegos en Unity (C#), enfocado en plataformas como Android y Steam.
-* ⚙️ Tengo experiencia sólida en automatización de pruebas y pipelines de CI/CD utilizando herramientas como Playwright y Postman.
-* 📚 Estudiante universitario en constante aprendizaje.
-* 🎯 **Objetivo actual:** Expandir mis habilidades en arquitectura de software, refactorización de código limpio y desarrollo de mecánicas de juego fluidas.
-
 ### 💻 Stack Tecnológico
 
 **Desarrollo y Game Dev:**
