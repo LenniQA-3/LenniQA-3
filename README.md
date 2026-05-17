@@ -1,4 +1,4 @@
-# ¡Hola! Soy LenniQA-3 👋
+# ¡Hola! Soy Tadano--QR
 
 Soy un desarrollador de Quality Assurance (QA) apasionado por la automatización y la creación de experiencias interactivas. 
 
